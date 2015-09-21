@@ -1,6 +1,6 @@
 > **NB:** This document has been merged into stardard's [RULES] document. This repo will no longer be updated.
 
-[RULES]: https://github.com/feross/standard/edit/master/RULES.md
+[RULES]: https://github.com/feross/standard/blob/master/RULES.md
 
 ---
 
