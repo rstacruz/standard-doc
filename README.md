@@ -1,3 +1,9 @@
+> **NB:** This document has been merged into stardard's [RULES] document. This repo will no longer be updated.
+
+[RULES]: https://github.com/feross/standard/edit/master/RULES.md
+
+---
+
 # Standard JavaScript
 
 This is a TL;DR of the [standard] and [semistandard] JavaScript rules. For more detailed explanations, see standard's [rules documentation](https://github.com/feross/standard/blob/master/RULES.md).
